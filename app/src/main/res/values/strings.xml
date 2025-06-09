@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TemperaturaBluetooth</string>
+    <string name="scan_devices">Buscar dispositivos</string>
+    <string name="scanning">Escaneando...</string>
+    <string name="no_devices_found">No se encontraron dispositivos emparejados</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="data_received">Datos recibidos:</string>
+    <string name="waiting_for_data">Esperando datos...</string>
+    <string name="bluetooth_reader">Lector de Datos Bluetooth</string>
+    <string name="permission_required">Se requieren permisos de Bluetooth para usar esta aplicación</string>
+</resources>
